@@ -1,2 +1,3 @@
 # rahul-demo
-this is my git Repository
+this is my first git Repository.
+author - rahul sakhla
